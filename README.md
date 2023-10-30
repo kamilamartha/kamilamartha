@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, here is Kamila Martha 🙋🏽‍♀️
 
-<!--
-**kamilamartha/kamilamartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kamila Martha GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilamartha&theme=shades-of-purple&show_icons=true)
 
-Here are some ideas to get you started:
+## Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilamartha&layout=compact)](https://github.com/kamilamartha/github-readme-stats)
+
+## Contact Me
+
+[ ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamila-martha-978a02288/)
